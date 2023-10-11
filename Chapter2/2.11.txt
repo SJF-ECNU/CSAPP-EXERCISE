@@ -1,0 +1,7 @@
+A.
+first=k
+last=k
+B.
+传入inplace_swap的两个地址为同一个，这使得，第一步时就将该位置的数值计算为0
+C.
+修改循环条件为first<last
